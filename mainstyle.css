@@ -1,0 +1,145 @@
+*{
+  /* padding: 0px; */
+  margin: 0px;
+  /* box-sizing: border-box; */
+}
+
+.wrap{
+  height: 100vh;
+  /* it hide the extra image on x axis */
+  /* overflow-x: hidden; */
+  overflow-y: auto;
+}
+
+
+
+/* for hidding scrollbar  */
+.sc::-webkit-scrollbar{
+  display: none;
+}
+
+.sufee-login {
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    margin-top:120px;
+    background-color: whitesmoke;
+    padding: 20px;
+  }
+
+  .btn{
+    width: 440px;
+  }
+
+  .btn1{
+    width: 150px;
+    margin-left: 100px;
+  }
+
+  .field_error{
+    color: red;
+    margin-top: 15px;
+  }
+
+  .logo{
+    height:69px ;
+  }
+
+  .bar{
+    margin-right: 10px;
+  }
+
+  .add{
+    margin-right:20px ;
+    pointer-events: none style;
+    color: black;
+    cursor: default;
+  }
+
+  .menu{
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    /* text-decoration: none; */
+    text-decoration-line:none; 
+  }
+
+  #badgea a{
+    background-color: rgb(8, 250, 8);
+    text-decoration-line: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    width:50px ;
+    font-size: medium;
+  }
+
+  #badgede a{
+    background-color: rgb(232, 31, 31);
+    text-decoration-line: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    width:50px ;
+    font-size: medium;
+  }
+
+  #badgee a{
+    background-color: rgb(75, 170, 242);
+    text-decoration-line: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    width:50px ;
+    font-size: medium;
+    padding: 5px;
+  }
+  
+  .badge a{
+    text-decoration-line: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* background-color: brown; */
+    color: whitesmoke;
+    width:50px ;
+    font-size: medium;
+    padding: 5px;
+  }
+
+  .form-control{
+    width: 440px;
+  }
+
+  .catform{
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    /* margin-top:110px;
+    margin-left:460px ; */
+  }
+
+  .msg {
+    color: red;
+  }
+
+  .head strong{
+    font-family: serif;
+    font-size: larger;
+  }
+
+  .shadow{
+    width: 500px;
+  }
+  
+  .box-link a{
+    text-decoration-line: none;
+    color: black;
+    margin-top: 10px;
+    /* font-style: italic; */
+  }
+
+  .space{
+    margin-left: 10px;
+  }
+
+  .down{
+    margin-bottom: 40px;
+  }
+  
